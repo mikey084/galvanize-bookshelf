@@ -49,5 +49,9 @@
   },
   "engines": {
     "node": "6.3.1"
-  }
+  },
+  "scripts": {
+  "knex": "knex",
+  "start": "nodemon server.js"
+}
 }
